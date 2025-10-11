@@ -1,2 +1,1 @@
-# omdeep
-Github Profile README
+# Hi, there 👋
