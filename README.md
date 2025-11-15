@@ -2,7 +2,6 @@
 I'm a 4th year computer science student passionate about web applications.
 
 ##### 🔭 I'm currently working on DisasterLink - an app for disaster alerts and community response.
-##### 🌱 I'm currently learning system design, K8s, AWS.
 ##### 👯 I'm looking to collaborate on projects related to web and python.
 ##### 📫 How to reach me: omdeepr91@gmail.com
 
