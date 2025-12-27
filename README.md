@@ -47,7 +47,13 @@ I'm a 4th-year Computer Science student with a passion for building impactful we
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
