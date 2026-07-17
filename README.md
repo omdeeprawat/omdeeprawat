@@ -6,7 +6,7 @@
     <td align="right">
       <a href="https://www.linkedin.com/in/omdeep-rawat-951493307/">LinkedIn</a> ·
       <a href="https://Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">email</a> ·
-      <a href ="https://portfolio-amber-six-m89a7cchj1.vercel.app/">portfolio</a>a> .
+      <a href ="https://portfolio-amber-six-m89a7cchj1.vercel.app/">portfolio</a> .
     </td>
   </tr>
 </table>
